@@ -22,7 +22,7 @@ This project is a movie data visualization web application built with React.js. 
 ## Getting Started
 
 **Clone the repository**  
-git clone https://github.com/your-username/movie-data-visualization.git  
+[git clone https://github.com/your-username/movie-data-visualization.git](https://github.com/bharathvaddineni/movie-data-visualization.git)  
 **Install dependencies**  
 cd movie-data-visualization/Client 
 npm install  
